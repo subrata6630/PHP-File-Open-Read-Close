@@ -1,4 +1,4 @@
-# PHP Flie open, read, and close
+# PHP Flie Open, Read, and Close
 
 # Open
 
